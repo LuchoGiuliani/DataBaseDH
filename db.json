@@ -107,24 +107,6 @@
       "type": "Figure",
       "id": 5,
       "price": 180
-    },
-    {
-      "amiiboSeries": "Super Mario Bros.",
-      "character": "Mario",
-      "gameSeries": "Super Mario",
-      "head": "00000000",
-      "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00000000-03710102.png",
-      "name": "Mario - Wedding",
-      "release": {
-        "au": "2017-10-27",
-        "eu": "2017-10-27",
-        "jp": "2017-10-27",
-        "na": "2017-10-27"
-      },
-      "tail": "03710102",
-      "type": "Figure",
-      "id": 6,
-      "price": 144
     }
   ]
 }
